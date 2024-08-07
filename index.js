@@ -1,1 +1,3 @@
-const ete = "dsfsdf"
+const ete = 'dsfsdf';
+
+console.warn(ete)
