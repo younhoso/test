@@ -1,3 +1,3 @@
 const ete = 'dsfsdf';
 
-console.warn(ete)
+console.warn(ete);
